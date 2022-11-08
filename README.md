@@ -6,6 +6,7 @@ If you are interested in seeing more feel free to reach out to me.
 The main objectives of the app are to collect the appointments and tasks of all family members. The data shall be synchronized via a lamp-server in a local network.
 ## Technical background
 The following tools are used to develope the android-application:
+   - Kotlin
    - UI → Jetpack Compose
    - Dependency Injection → Hilt
    - Data storage
