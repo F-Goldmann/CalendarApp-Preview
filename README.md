@@ -7,6 +7,7 @@ The main objectives of the app are to collect the appointments and tasks of all 
 ## Technical background
 The following tools are used to develope the android-application:
    - UI → Jetpack Compose
+   - Dependency Injection → Hilt
    - Data storage
      - Room Database for lists (e.g. appointments, tasks ...)
      - Proto DataStore for single data classes (e.g. settings)
